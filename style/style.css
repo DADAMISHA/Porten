@@ -19,8 +19,8 @@ body{
 }
 .header-top ul{
     display: flex;
-    justify-content: right;
-    margin: 14px;
+    justify-content: space-around;
+    margin-right: 25px;
 
 }
 .header-info{
